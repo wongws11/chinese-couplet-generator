@@ -79,7 +79,6 @@ for head in rhymeList:
         metaList.append([verse.get('21')[8:10], verse.get('20')[8:10]])
     # TODO add custom spilter
 
-
 write1 = open('oneWord.txt', 'w')
 write2 = open('twoWord.txt', 'w')
 write3 = open('threeWord.txt', 'w')
